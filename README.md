@@ -240,8 +240,8 @@ Distributed under the [MIT License](LICENSE).
 ## Contact
 
 **Your Name**  
-Email: [your.email@example.com](mailto:your.email@example.com)  
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+Email: [dollarsignsimple@gmail.com](mailto:dollarsignsimple@gmail.com)  
+GitHub: [https://github.com/thndrthf](https://github.com/thndrthf)
 
 ---
 
